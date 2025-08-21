@@ -1,0 +1,5 @@
+[submodule "Heat-Stroke-Prediction"]
+	path = Heat-Stroke-Prediction
+	url = https://github.com/jondeaton/Heat-Stroke-Prediction.git
+
+
